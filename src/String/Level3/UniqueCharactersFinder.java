@@ -3,7 +3,7 @@ package String.Level3;
 import java.util.Scanner;
 
     public class UniqueCharactersFinder {
-        public static int getLength(String text) {git
+        public static int getLength(String text) {
             int count = 0;
             try {
                 while (true) {
